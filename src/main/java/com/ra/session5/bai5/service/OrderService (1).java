@@ -1,7 +1,7 @@
 package com.ra.session5.bai5.service;
 
-import com.ra.ptit_cntt2_it210_ss5_btvn.bai2.model.Dish;
-import com.ra.ptit_cntt2_it210_ss5_btvn.bai5.Repository.OrderRepository;
+import com.ra.bai2.model.Dish;
+import com.ra.bai5.Repository.OrderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
