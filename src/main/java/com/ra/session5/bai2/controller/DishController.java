@@ -2,8 +2,8 @@ package com.ra.session5.bai2.controller;
 
 
 
-import com.ra.ptit_cntt2_it210_ss5_btvn.bai2.model.Dish;
-import com.ra.ptit_cntt2_it210_ss5_btvn.bai2.service.DishService;
+import com.ra.bai2.model.Dish;
+import com.ra.bai2.service.DishService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
