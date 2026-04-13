@@ -1,6 +1,6 @@
 package com.ra.session5.bai3.controller;
 
-import com.ra.ptit_cntt2_it210_ss5_btvn.bai3.service.AdminDishService;
+import com.ra.bai3.service.AdminDishService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
