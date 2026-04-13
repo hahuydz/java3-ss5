@@ -1,7 +1,7 @@
 package com.ra.session5.bai5.repository;
 
 
-import com.ra.ptit_cntt2_it210_ss5_btvn.bai2.model.Dish;
+import com.ra.bai2.model.Dish;
 import org.springframework.stereotype.Repository;
 import java.util.Arrays;
 import java.util.List;
